@@ -18,7 +18,7 @@
 	  		</div>
 	  		<div class="site-navigation">
 	  			<ul>
-	  				<li><a href="#">Пункт 1</a></li>
+	  				<li><a href="#">reading</a></li>
 	  				<li><a href="#">Пункт 2</a></li>
 	  				<li><a href="#">Пункт 3</a></li>
 	  				<li><a href="#">Пункт 4</a></li>
