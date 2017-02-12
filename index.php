@@ -10,6 +10,10 @@
   	<div id="page">
   		<header>
 	  		<div class="date-box">
+		  		<?php
+		  			date_default_timezone_set('Europe/Kiev');
+		  			echo date('l jS \of F Y h:i A');
+		  		?>
 	  		</div>
 	  		<div class="logo-overlay">
 	  			<div class="logo">
@@ -17,12 +21,53 @@
 	  			</div>
 	  		</div>
 	  		<div class="site-navigation">
-	  			<ul>
-	  				<li><a href="#">reading</a></li>
-	  				<li><a href="#">Пункт 2</a></li>
-	  				<li><a href="#">Пункт 3</a></li>
-	  				<li><a href="#">Пункт 4</a></li>
-	  				<li><a href="#">Пункт 5</a></li>
+	  			<ul class="site-navigation-main-menu">
+	  				<li class="menu-list"><a href="#">Пункт 1</a>
+	  					<ul class="menu-tabs">
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  					</ul>
+	  				</li>
+	  				<li class="menu-list"><a href="#">Пункт 2</a>
+	  					<ul class="menu-tabs">
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  					</ul>
+	  				</li>
+	  				<li class="menu-list"><a href="#">Пункт 3</a>
+	  					<ul class="menu-tabs">
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  					</ul>
+	  				</li>
+	  				<li class="menu-list"><a href="#">Пункт 4</a>
+	  					<ul class="menu-tabs">
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  					</ul>
+	  				</li>
+	  				<li class="menu-list"><a href="#">Пункт 5</a>
+	  					<ul class="menu-tabs">
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Подпункт</a></li>
+	  					</ul>
+	  				</li>
+	  					
 	  			</ul>
 	  		</div>
   		</header>
