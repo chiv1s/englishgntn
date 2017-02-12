@@ -10,10 +10,10 @@
   	<div id="page">
   		<header>
 	  		<div class="date-box">
-		  		<?php
+		  		<b><?php
 		  			date_default_timezone_set('Europe/Kiev');
 		  			echo date('l jS \of F Y h:i A');
-		  		?>
+		  		?></b>
 	  		</div>
 	  		<div class="logo-overlay">
 	  			<div class="logo">
