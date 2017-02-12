@@ -49,7 +49,7 @@ body{
 #page{
 	max-width: 1200px;
     margin: 0 auto;
-    height:9000px;
+    height:100%;
     background-color: white;
 }
 .date-box{
@@ -101,12 +101,12 @@ body{
 	opacity: 1;
 	left:0;
 }
-.menu-list:after{
+/*.menu-list:after{
 	content:" ";
 	border:5px solid;
 	border-color: transparent transparent transparent #ffffff;
 	transition: 0.5s;
-}
+}*/
 .menu-tabs{
 	position: absolute;
 	opacity: 0;
