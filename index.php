@@ -22,55 +22,57 @@
 	  		</div>
 	  		<div class="site-navigation">
 	  			<ul class="site-navigation-main-menu">
-	  				<li class="menu-list"><a href="#">reading</a>
+	  				<li class="menu-list"><a href="#">Reading</a>
 	  					<ul class="menu-tabs">
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Fairy Tales</a></li>
+	  						<li><a href="#">Readers</a></li>
 	  					</ul>
 	  				</li>
-	  				<li class="menu-list"><a href="#">Leastening</a>
+	  				<li class="menu-list"><a href="#">Listening</a>
 	  					<ul class="menu-tabs">
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Movie Quizzes</a></li>
+	  						<li><a href="#">Songs</a></li>
 	  					</ul>
 	  				</li>
-	  				<li class="menu-list"><a href="#">Пункт 3</a>
+	  				<li class="menu-list"><a href="#">Speaking</a>
 	  					<ul class="menu-tabs">
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Common Phrases</a></li>
 	  					</ul>
 	  				</li>
-	  				<li class="menu-list"><a href="#">Пункт 4</a>
+	  				<li class="menu-list"><a href="#">Exams</a>
 	  					<ul class="menu-tabs">
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">ЗНО</a></li>
+	  						<li><a href="#">ДПА</a></li>
+	  						<li><a href="#">IELTS</a></li>
 	  					</ul>
 	  				</li>
-	  				<li class="menu-list"><a href="#">Пункт 5</a>
+	  				<li class="menu-list"><a href="#">Grammar</a>
 	  					<ul class="menu-tabs">
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
-	  						<li><a href="#">Подпункт</a></li>
+	  						<li><a href="#">Theory</a></li>
+	  						<li><a href="#">Tests</a></li>
 	  					</ul>
 	  				</li>
 	  					
 	  			</ul>
 	  		</div>
   		</header>
+  		<div class="content-page">
+  			<div class="left-culumn">
+
+  				<div class="left-culumn-heading">
+  					<h3><span>Latest news<span></h3>
+  				</div>
+  				<ul>
+  					<li><a href="#">news</a></li>
+  					<li><a href="#">news</a></li>
+  					<li><a href="#">news</a></li>
+  					<li><a href="#">news</a></li>
+  					<li><a href="#">news</a></li>
+  					<li><a href="#">news</a></li>
+  				</ul>
+
+  			</div>
+  		</div>
   	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
  </body>

@@ -113,7 +113,7 @@ body{
 .menu-tabs{
 	position: absolute;
 	opacity: 0;
-	width: auto;
+	width: 100%;
 	transition: 0.5s opacity;
 	left:-9999em;
 	background-color: #645f69;
@@ -126,4 +126,34 @@ body{
 .menu-tabs a:hover{
 	background-color:#ce3624;
 }
-
+.left-culumn{
+	width:30%;
+	height:auto;
+	float:right;
+}
+.left-culumn a{
+	font-family: 'Open Sans', serif;
+	font-size: 17px;
+	color:#ce3624;
+	text-align: left;
+	text-decoration: none;
+}
+.left-culumn a:hover{
+	text-decoration: underline;
+}
+.left-culumn-heading{
+	width:100%;
+	border-bottom:2px solid #ce3624;
+}
+.left-culumn-heading h3 span{
+	background-color: #ce3624;
+	color:#ffffff;
+	font-family: 'Open Sans', serif;
+	font-size: 20px;
+	display: inline-block;
+	padding:5px; 
+}
+.content-page{
+	padding: 20px;
+	height:auto;
+}
