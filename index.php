@@ -22,7 +22,7 @@
 	  		</div>
 	  		<div class="site-navigation">
 	  			<ul class="site-navigation-main-menu">
-	  				<li class="menu-list"><a href="#">Пункт 1</a>
+	  				<li class="menu-list"><a href="#">reading</a>
 	  					<ul class="menu-tabs">
 	  						<li><a href="#">Подпункт</a></li>
 	  						<li><a href="#">Подпункт</a></li>
