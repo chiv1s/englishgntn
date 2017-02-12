@@ -31,7 +31,7 @@
 	  						<li><a href="#">Подпункт</a></li>
 	  					</ul>
 	  				</li>
-	  				<li class="menu-list"><a href="#">Пункт 2</a>
+	  				<li class="menu-list"><a href="#">Leastening</a>
 	  					<ul class="menu-tabs">
 	  						<li><a href="#">Подпункт</a></li>
 	  						<li><a href="#">Подпункт</a></li>
